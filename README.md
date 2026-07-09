@@ -35,7 +35,9 @@ Open a separate terminal window, navigate to the frontend directory, install dep
 
 cd frontend
 npm install
-npm run dev                               Open your browser and navigate to http://localhost:5173.
+npm run dev
+
+Open your browser and navigate to http://localhost:5173.
 
 
 ---
